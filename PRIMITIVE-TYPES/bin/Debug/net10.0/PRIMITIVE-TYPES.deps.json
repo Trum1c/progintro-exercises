@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PRIMITIVE-TYPES/1.0.0": {
+        "runtime": {
+          "PRIMITIVE-TYPES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRIMITIVE-TYPES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
