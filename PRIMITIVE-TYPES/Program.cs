@@ -78,4 +78,4 @@ float ss = Sunday - Saturday;
 
 Console.WriteLine(tm);
 Console.WriteLine(wm);
-Console.WriteLine(ss)
+Console.WriteLine(ss);
