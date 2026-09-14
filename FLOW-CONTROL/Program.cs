@@ -37,6 +37,7 @@ switch(month2) {
 }
 
 // 6.6 Celcius to Fahrenheit
-for (int temp2= -5 ; temp2 <= 40 ; temp2++) {
-    Console.WriteLine("Temp: " + temp2 + " Farhenheit: " + 32 + (9/5*temp2));
+for (float temp2 =-5 ; temp2 <= 40 ; temp2+=0.5) {
+    float ft = 32 + (9f/5f*temp2);
+    Console.WriteLine("Temp: " + temp2 + " Farhenheit: " + ft);
 }
