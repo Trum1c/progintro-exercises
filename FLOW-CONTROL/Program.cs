@@ -37,7 +37,32 @@ switch(month2) {
 }
 
 // 6.6 Celcius to Fahrenheit
-for (float temp2 =-5 ; temp2 <= 40 ; temp2+=0.5) {
+for (float temp2 =-5f ; temp2 <= 40f ; temp2+=0.5f) {
     float ft = 32 + (9f/5f*temp2);
     Console.WriteLine("Temp: " + temp2 + " Farhenheit: " + ft);
 }
+
+// 6.9 Areas of Circles
+for (int r = 1 ; r<=5 ; r+=2) {
+    Console.WriteLine(3.14f * r*r);
+}
+
+// 6.4 Length of Month
+byte monthnumber = 2;
+int days;
+
+switch(monthnumber) {
+    case 1: case 3: case 5: case 7: case 8: case 10: case 12:
+        days = 31;
+        break;
+    case 4: case 6: case 9: case 11:
+        days = 30;
+        break;
+    case 2:
+        days = 28;
+        break;
+    default :
+        days = 0; 
+        break;
+}
+Console.WriteLine(days);
