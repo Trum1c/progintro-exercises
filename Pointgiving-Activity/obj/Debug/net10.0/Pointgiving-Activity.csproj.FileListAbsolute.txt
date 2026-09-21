@@ -1,0 +1,15 @@
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\bin\Debug\net10.0\Pointgiving-Activity.exe
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\bin\Debug\net10.0\Pointgiving-Activity.deps.json
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\bin\Debug\net10.0\Pointgiving-Activity.runtimeconfig.json
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\bin\Debug\net10.0\Pointgiving-Activity.dll
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\bin\Debug\net10.0\Pointgiving-Activity.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.AssemblyInfoInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.AssemblyInfo.cs
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.csproj.CoreCompileInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.sourcelink.json
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.dll
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\refint\Pointgiving-Activity.dll
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\Pointgiving-Activity.genruntimeconfig.cache
+C:\Users\Vedad\Desktop\progintro-exercises\Pointgiving-Activity\obj\Debug\net10.0\ref\Pointgiving-Activity.dll
