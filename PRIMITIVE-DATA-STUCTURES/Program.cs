@@ -53,3 +53,43 @@ int[] radius = [1,3,5];
 for (int x=0 ; x<radius.Length ; x++){
     Console.WriteLine("The area of radius: " + radius[x] + " is: " + 3.14f * radius[x]*radius[x]);
 }
+
+// 5.4:
+long b = 1;
+int i = (int)b;
+
+float f = 1f;
+double d = f;
+Console.WriteLine(f/d);
+
+//Exercise 5.12 Incrementing a Month
+int month2 = 2;
+float flt = 0.5f;
+
+Console.WriteLine(month2+flt+0.5);
+
+//Exercise 6.1 Decision of Purchase
+int sec = 31104000;
+int days2 = sec / 60 / 60 / 24;
+int month3 = days2 / 30;
+
+int Christmas = 360;
+
+if (Christmas == days2 && Christmas/30 == month3)
+{
+    Console.WriteLine("ITS CHRISTMAS");
+}
+else
+{
+    Console.WriteLine("Its not christmas");
+}
+// Exercise 7.6 Multiplication Table
+int size = 27;
+int[] array = new int[size];
+
+for (int n = 0 ; n<size ; n++)
+{
+    array[n] = 3*n;
+    Console.WriteLine(array[n]);
+}
+    

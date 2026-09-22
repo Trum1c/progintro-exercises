@@ -6,7 +6,7 @@ foreach (int number in numbers)
 {
 //Only including negative value with the expression <0, and then finding the largest
 // negative value with the help of our max varible. If the current number is larger than
-// max, then the program sets the value of max equals to the value of number.
+// max, then the program sets the value of max, equals to the value of number.
     if (number <0 && max<number)
     {
         max = number;
@@ -14,5 +14,3 @@ foreach (int number in numbers)
 }
 
 Console.WriteLine(max);
-
-

@@ -1,0 +1,15 @@
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\bin\Debug\net10.0\code-reuse.exe
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\bin\Debug\net10.0\code-reuse.deps.json
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\bin\Debug\net10.0\code-reuse.runtimeconfig.json
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\bin\Debug\net10.0\code-reuse.dll
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\bin\Debug\net10.0\code-reuse.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.AssemblyInfoInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.AssemblyInfo.cs
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.csproj.CoreCompileInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.sourcelink.json
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.dll
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\refint\code-reuse.dll
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\code-reuse.genruntimeconfig.cache
+C:\Users\Vedad\Desktop\progintro-exercises\code-reuse\obj\Debug\net10.0\ref\code-reuse.dll
