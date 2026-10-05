@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("code-reuse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2dc82a77296b93113883bb89fb34d79298df782")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7d5566403ff4f0cf2d04a041a357dbe98efe538")]
 [assembly: System.Reflection.AssemblyProductAttribute("code-reuse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("code-reuse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

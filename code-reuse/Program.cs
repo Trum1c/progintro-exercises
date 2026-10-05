@@ -56,4 +56,70 @@ area(1);
 area(3);
 area(5);
 
-//8.5: Own Square Root
+//9.1: Indexing
+int iterationer = 10;
+int[] array = {1, 2, 3, 4, 5};
+// increment
+for (int i=0 ; i<iterationer ; i++) 
+{
+    try
+    {
+        array[i]++;
+    }
+    catch(IndexOutOfRangeException)
+    {
+        //Ignoere fejlen
+    }
+}
+// print
+for (int i=0 ; i<array.Length ; i++) {
+Console.WriteLine(array[i]);
+}
+
+// 9.2 accounts:
+int[] accounts = {903, 716, 67};
+int GetAccountNumber ()
+{
+Console.WriteLine("Enter an account number: ");
+return Convert.ToInt32(Console.ReadLine());
+}
+void PrintAccountState (int accountId)
+{
+    Console.WriteLine("Account " + accountId + " contains " + accounts[accountId]);
+}
+while (false) {
+    try{
+        int accountId = GetAccountNumber();
+        PrintAccountState(accountId);
+    }
+    catch(IndexOutOfRangeException)
+    {
+        Console.WriteLine("Input is out of range");
+    }
+    catch(FormatException)
+    {
+      Console.WriteLine("Use int");  
+    }
+}
+
+//9.3 Average Grade
+int[] grades = [4, 7, 02, 00, 10, 4, 12];
+int sums = 0;
+float count = 0f;
+int get_grade(int course_id){
+    int grade = grades[course_id];
+    if (grade<2){
+        throw new Exception("You have failed");
+    }
+    return grade;
+}
+    for (int x = 0 ; x<grades.Length ; x++)
+    {
+        try{
+            sums += get_grade(x);
+            count++;
+        }
+        catch(Exception){
+        }
+    }
+Console.WriteLine(sums/count);
