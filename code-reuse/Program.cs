@@ -123,3 +123,40 @@ int get_grade(int course_id){
         }
     }
 Console.WriteLine(sums/count);
+
+public class Item
+{
+    public string name;
+    public double price;
+
+public string GetName()
+{
+    return name;
+}
+
+public double GetPrice()
+{
+    return price;
+}
+}
+// FOODITEM KLASSE
+public class FoodItem : Item
+{
+    public DateTime expiresAt;
+
+// METHOD
+public DateTime GetExpiresAt()
+{
+   return expiresAt;
+}
+
+public override string ToString()
+{
+    return "Name: " + base.GetName() + " Price: " + base.GetPrice() + " Date: " + expiresAt;
+}
+}
+//NONFOODITEM KLASSE
+public class NonfoodItem : Item
+{
+    string[] materials;
+}
