@@ -1,0 +1,15 @@
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.AssemblyInfoInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.AssemblyInfo.cs
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.csproj.CoreCompileInputs.cache
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.sourcelink.json
+C:\Users\Vedad\Desktop\progintro-exercises\naming\bin\Debug\net10.0\naming.exe
+C:\Users\Vedad\Desktop\progintro-exercises\naming\bin\Debug\net10.0\naming.deps.json
+C:\Users\Vedad\Desktop\progintro-exercises\naming\bin\Debug\net10.0\naming.runtimeconfig.json
+C:\Users\Vedad\Desktop\progintro-exercises\naming\bin\Debug\net10.0\naming.dll
+C:\Users\Vedad\Desktop\progintro-exercises\naming\bin\Debug\net10.0\naming.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.dll
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\refint\naming.dll
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.pdb
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\naming.genruntimeconfig.cache
+C:\Users\Vedad\Desktop\progintro-exercises\naming\obj\Debug\net10.0\ref\naming.dll
